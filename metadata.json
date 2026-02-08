@@ -1,0 +1,8 @@
+{
+  "name": "Aurora Borealis Tracker",
+  "description": "Immersive real-time aurora tracking dashboard using NASA DONKI data and Gemini AI analysis.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
